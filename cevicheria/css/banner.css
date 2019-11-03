@@ -1,0 +1,58 @@
+.menulistbanner {
+    background: #004F68;
+    width: 96.60%;
+    float: left;
+    margin-top: -4px;
+    display: flex;
+}
+.menulistbanner li:hover{
+    background: rgba(0, 0, 0, 0.3);
+}
+.menulistbanner li{
+    list-style-type: none;
+    margin-left: -35px;
+    align-content: space-around;
+}
+.menulistbanner li a{
+    text-decoration: none;
+    color: #ffff;
+    font-family: arial;
+    width: 180px;
+    display: block;
+    float: left;
+    text-align: center;
+    padding: 20px 15px;
+}
+
+form{
+    width: 220px;
+    margin-left: 15.5%;
+    margin-top: 5px;
+}
+
+fieldset{
+    border: 1px solid #333;
+    border-radius: 5px;
+    background: #fff;
+}
+
+input, button{
+    position: relative;
+    padding: 0;
+    width: 155px;
+    height: 30px;
+}
+
+input{
+    color: #666;
+    border: none;
+}
+
+button{
+    width: 30px;
+    border: none;
+    background: #333;
+}
+.fa-search{
+    color: #fff;
+}
