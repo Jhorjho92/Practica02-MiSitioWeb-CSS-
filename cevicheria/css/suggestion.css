@@ -1,0 +1,32 @@
+section{
+    align-items: center;
+}
+.formSugerencias{
+    width: 80%;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+#inputsugerencias, #boton, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    box-sizing: border-box;
+    border: none;
+    font-size: 14px;
+    font-family: monospace;
+}
+
+textarea{
+    max-width: 100%;
+    min-width: 100%;
+    min-height: 250px;
+    max-height: 500px;
+}
+
+#boton{
+    cursor: pointer;
+}

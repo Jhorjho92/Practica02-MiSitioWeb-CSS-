@@ -26,7 +26,7 @@
 
 form{
     width: 220px;
-    margin-left: 15.5%;
+    margin-left: 10.5%;
     margin-top: 5px;
 }
 
@@ -51,8 +51,11 @@ input{
 button{
     width: 30px;
     border: none;
-    background: #333;
+    background: #fff;
+}
+button:hover{
+    cursor: pointer;
 }
 .fa-search{
-    color: #fff;
+    color: #003A64;
 }

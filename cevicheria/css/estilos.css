@@ -1,6 +1,37 @@
 *{
     border: none;
     border-style: 0;
-    padding: 0 0 0 0;
-    margin: 0 0 0 0;
+    color: #2A4C6F ;
+}
+
+body{
+    margin: 0;
+    background-attachment: fixed;
+}
+
+.menutext{
+    color: #C12B37;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.menutext a{
+    text-decoration: none;
+    font-family: sans-serif;
+    padding-left: 25px;
+    color: #E04644;
+    font-size: 20px;
+    
+}
+
+.colores {    
+    color: #004F68;
+    color:#003A64, #6FCB55, #6B499E, #C12B37, #FBDA68, #00B9E0;
+    color: #2A4C6F, #92D25E, #8F5FA5, #D0383E, #FCDF73, #3DC2E3;
+    color:#555E7B, #B7D968, #B576AD, #E04644, #FDE47F, #7CCCE5;
+}
+
+footer{
+    width: 100%;
+    float: left;
 }
