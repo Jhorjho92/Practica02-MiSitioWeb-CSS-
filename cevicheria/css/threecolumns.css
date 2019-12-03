@@ -1,3 +1,13 @@
+#sectionvideo{
+    width: 100%;
+    margin: 0 auto;
+    align-content: center;
+}
+#sectionvideo iframe{
+    align-content: center;
+    padding-left: 30%;
+}
+
 section{
     width: 33%;
     float: left;
